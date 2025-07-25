@@ -1,18 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Jan
 
-<!--
-**Rejman333/Rejman333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer focused on building fast, efficient, and creative solutions — especially in **real-time systems**, **3D graphics**, and **simulations**. I also enjoy experimenting with **artificial intelligence**, and I've done some work using **PyTorch** for neural network prototyping.
 
-Here are some ideas to get you started:
+## 🧠 What I enjoy working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧊 3D graphics & physics-based simulations
+- 🤖 AI & neural networks with PyTorch 
+- ⚙️ C++, Python, and occasionally Java  
+- 🧪 Algorithms, data structures, spatial partitioning  
+- 🎮 Game engines, terminal graphics, visual tools for developers  
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rejman333&hide=javascript,css,scss,html&theme=tokyonight)
+## 🚧 Projects worth checking out
+
+- [Boid Simulation in C++](https://github.com/Rejman333/FlockingAlgorithm)
+  A high-performance flocking simulation using QuadTree and Raylib
+
+- [Image Viewer in Python](https://github.com/Rejman333/Py_g_debug-UniversityTask)  
+  A simple, IrfanView-inspired image viewer made with Tkinter
+
+- [Ant Colony Algorithm Visualizer](https://github.com/Rejman333/ant_colony_algorithm_visualizer_python)
+  A Python-based visual demonstration of ant colony optimization solving pathfinding problems
