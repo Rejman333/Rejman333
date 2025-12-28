@@ -22,4 +22,5 @@ I'm a passionate developer focused on building fast, efficient, and creative sol
   A Python-based visual demonstration of ant colony optimization solving pathfinding problems
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rejman333&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=Rejman333&hide=javascript,css,scss,html&theme=tokyonight&cache_seconds=21600)
+
