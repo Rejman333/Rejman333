@@ -21,6 +21,5 @@ I'm a passionate developer focused on building fast, efficient, and creative sol
 - [Ant Colony Algorithm Visualizer](https://github.com/Rejman333/ant_colony_algorithm_visualizer_python)
   A Python-based visual demonstration of ant colony optimization solving pathfinding problems
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=Rejman333&hide=javascript,css,scss,html&theme=tokyonight&cache_seconds=21600)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Rejman333&layout=compact&hide=javascript,css,scss,html&theme=tokyonight)
 
